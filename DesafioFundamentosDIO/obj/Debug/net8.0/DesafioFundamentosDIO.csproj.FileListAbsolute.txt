@@ -1,0 +1,14 @@
+C:\Users\rafin\source\repos\DesafioFundamentosDIO\DesafioFundamentosDIO\obj\Debug\net8.0\DesafioFundamentosDIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafin\source\repos\DesafioFundamentosDIO\DesafioFundamentosDIO\obj\Debug\net8.0\DesafioFundamentosDIO.AssemblyInfoInputs.cache
+C:\Users\rafin\source\repos\DesafioFundamentosDIO\DesafioFundamentosDIO\obj\Debug\net8.0\DesafioFundamentosDIO.AssemblyInfo.cs
+C:\Users\rafin\source\repos\DesafioFundamentosDIO\DesafioFundamentosDIO\obj\Debug\net8.0\DesafioFundamentosDIO.csproj.CoreCompileInputs.cache
+C:\Users\rafin\source\repos\DesafioFundamentosDIO\DesafioFundamentosDIO\bin\Debug\net8.0\DesafioFundamentosDIO.exe
+C:\Users\rafin\source\repos\DesafioFundamentosDIO\DesafioFundamentosDIO\bin\Debug\net8.0\DesafioFundamentosDIO.deps.json
+C:\Users\rafin\source\repos\DesafioFundamentosDIO\DesafioFundamentosDIO\bin\Debug\net8.0\DesafioFundamentosDIO.runtimeconfig.json
+C:\Users\rafin\source\repos\DesafioFundamentosDIO\DesafioFundamentosDIO\bin\Debug\net8.0\DesafioFundamentosDIO.dll
+C:\Users\rafin\source\repos\DesafioFundamentosDIO\DesafioFundamentosDIO\bin\Debug\net8.0\DesafioFundamentosDIO.pdb
+C:\Users\rafin\source\repos\DesafioFundamentosDIO\DesafioFundamentosDIO\obj\Debug\net8.0\DesafioFundamentosDIO.dll
+C:\Users\rafin\source\repos\DesafioFundamentosDIO\DesafioFundamentosDIO\obj\Debug\net8.0\refint\DesafioFundamentosDIO.dll
+C:\Users\rafin\source\repos\DesafioFundamentosDIO\DesafioFundamentosDIO\obj\Debug\net8.0\DesafioFundamentosDIO.pdb
+C:\Users\rafin\source\repos\DesafioFundamentosDIO\DesafioFundamentosDIO\obj\Debug\net8.0\DesafioFundamentosDIO.genruntimeconfig.cache
+C:\Users\rafin\source\repos\DesafioFundamentosDIO\DesafioFundamentosDIO\obj\Debug\net8.0\ref\DesafioFundamentosDIO.dll
